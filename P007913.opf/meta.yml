@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W00EGS1017422
   title: དྲི་བཟང་ཐུལ་བའི་སྨན་ལྗོངས
-  volume: ''
+  volume:
+    264a2c1f751c436f9e4028112a839f01:
+      image_group_id: I1PD28032
+      title: Volume 1 of dri bzang thul ba'i sman ljongs
+      volume_number: 1
+      total_pages: 380
   author: ''
+ebook_metadata:
+  title: དྲི་བཟང་ཐུལ་བའི་སྨན་ལྗོངས
+  author: ''
+  sku: P007913
+  cover: cover.jpg
+  layers:
+  - pagination
